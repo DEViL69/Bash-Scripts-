@@ -1,0 +1,6 @@
+Bash-Scripts-
+=============
+
+w00t the easy way to install stuff...
+
+DiDO comming soon...
